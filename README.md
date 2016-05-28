@@ -5,7 +5,6 @@ This script made in Python2 is used to add the free-book of the day to your libr
 To run the program, type in terminal
 ```Bash
 python getBook.py
-echo "Ejecutado script"
 ```
 
 ##Preconditions
